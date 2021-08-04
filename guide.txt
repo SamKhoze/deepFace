@@ -1,0 +1,4 @@
+RUNNING THE PROGRAM
+
+Open Tests folder/dataset
+run stream.py
